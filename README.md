@@ -1,1 +1,1 @@
-The repository contains one ipynb file and a csv file. The data for the csv file is curated personally and contains various songs ranging over several decades from the 50s to the 2020s. Jupyter is made use of to create insightful information from the raw available data
+The repository contains one ipynb and csv file. The data for the csv file is curated personally and contains various songs ranging over several decades from the 50s to the 2020s. Jupyter is made use of to create insightful information from the raw available data
